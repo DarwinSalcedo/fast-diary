@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fast Diary</string>
+    <string name="list_fragment">ListFragment</string>
+    <string name="detail_fragment">DetailFragment</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="clear">Clear</string>
+    <string name="done">Done</string>
+    <string name="how_was_hour_sleep">What was your activity?</string>
+    <string name="activity_type_tittle">What is your new activity</string>
+    <string name="activity_type">Type</string>
+    <string name="activity_description">Description</string>
+    <string name="cleared_message">All your data is gone forever.</string>
+    <string name="no_tittle">There is not tittle yet</string>
+    <string name="no_comments">There are no comments yet</string>
+
+</resources>
